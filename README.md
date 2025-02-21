@@ -41,9 +41,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/guteix/guteix/output/snake.svg" alt="Snake animation" />
-
-###
